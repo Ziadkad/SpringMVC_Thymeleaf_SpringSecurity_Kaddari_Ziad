@@ -1,4 +1,4 @@
-# SpringMVC+Thymeleaf+Security
+# SpringMVC_Thymeleaf_SpringSecurity
 ![img](imgs/01.png)
 ![img](imgs/02.png)
 ![img](imgs/03.png)
